@@ -15,13 +15,9 @@ This project is based on a task given in this video:
 
 I did take some reference from the previous video, but in the end, I successfully completed the task. Huge thanks to **Tapas Da** for the clear and detailed explanation of React concepts.
 
----
-
 ## Live Link
 
 [https://ts-cars.netlify.app/](https://ts-cars.netlify.app/)
-
----
 
 ## How to Run Locally
 
@@ -52,6 +48,6 @@ The app will be available on `http://localhost:5173` by **default**.
 
 ---
 
-![Component Breakdown Diagram](public/component%20breakdown)
+![Component Breakdown Diagram](public/component%20breakdown.png)
 
-![Component Hierarchy Diagram](public/tree)
+![Component Hierarchy Diagram](public/tree.png)
