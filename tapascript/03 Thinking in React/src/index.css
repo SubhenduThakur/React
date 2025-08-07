@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Barriecito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barriecito&family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
+.barriecito {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bebas-neue {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jost {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
