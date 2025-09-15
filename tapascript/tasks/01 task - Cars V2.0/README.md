@@ -14,7 +14,7 @@ This project is based on a task given in this video:
 
 - Break down the page layout into reusable components.
 - Identify State and Props.
-- Impliment search, sort and filter logic.
+- Implement search, sort and filter logic.
 
 ## Live Link
 
