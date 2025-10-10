@@ -49,6 +49,7 @@ function Page() {
 
   const [searchTerm, setSearchCar] = useState("");
   const [showPremium, setShowPremium] = useState(false);
+  const [sortOption, setSortOption] = useState("");
 
   return (
     <div className="mx-auto px-10 py-4">
@@ -58,8 +59,15 @@ function Page() {
         onSearchCar={setSearchCar}
         showPremium={showPremium}
         onShowPremium={setShowPremium}
+        sortOption={sortOption}
+        onSortOption={setSortOption}
       />
-      <CarLists cars={cars} searchTerm={searchTerm} showPremium={showPremium} />
+      <CarLists
+        cars={cars}
+        searchTerm={searchTerm}
+        showPremium={showPremium}
+        sortOption={sortOption}
+      />
     </div>
   );
 }
