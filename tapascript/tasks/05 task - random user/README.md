@@ -14,11 +14,10 @@ This project is based on a task given in this video:
 
 - Add a + icon at the top-right corner of the page. Everytime clicking on it, add a random user into the UI list that shows in the UI. Note: No UI to create to accept inputs to create this new user. Just use Math.random() along with some Test user name to create it.
 - Show the total user count somewhere at the top. It should be updated everytime you add a user.
-- Replicate the exact layout using React.
 
 ## Live Link
 
-[https://addradomuser.netlify.app/](https://addradomuser.netlify.app/)
+🚀[Live](https://addradomuser.netlify.app/)
 
 ## How to Run Locally
 
