@@ -8,7 +8,7 @@ I want to take a moment to express my sincere appreciation and gratitude for the
 
 This project is based on a task given in this video:
 
-📺 [https://youtu.be/fPBW7Pn6O38](https://youtu.be/fPBW7Pn6O38)
+▶️ [YouTube](https://youtu.be/fPBW7Pn6O38)
 
 ### **Task Objective**
 
@@ -17,7 +17,7 @@ This project is based on a task given in this video:
 
 ## Live Link
 
-🚀[Live](https://addradomuser.netlify.app/)
+🚀 [Live](https://addradomuser.netlify.app/)
 
 ## How to Run Locally
 
