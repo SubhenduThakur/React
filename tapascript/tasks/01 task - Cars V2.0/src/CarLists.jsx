@@ -30,9 +30,9 @@ function CarLists({ cars, searchTerm, showPremium, sortOption }) {
     .filter((car) => (showPremium ? car.isPremium : true))
     .sort((a, b) => {
       if (sortOption === "price-asc") return a.price - b.price;
-      if (sortOption === "price-desc") return b.price - a.price;
+      if (sortOption === "price-dasc") return b.price - a.price;
       if (sortOption === "year-asc") return a.year - b.year;
-      if (sortOption === "year-desc") return b.year - a.year;
+      if (sortOption === "year-dasc") return b.year - a.year;
       return 0;
     })
     .map((car) => <CarCard key={car.id} cars={car} />);
